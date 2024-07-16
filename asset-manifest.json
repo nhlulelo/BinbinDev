@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/BinbinDev/static/css/main.72fc69a0.css",
+    "main.js": "/BinbinDev/static/js/main.f16a8278.js",
+    "static/js/453.4ed56b0f.chunk.js": "/BinbinDev/static/js/453.4ed56b0f.chunk.js",
+    "static/media/pic.jpg": "/BinbinDev/static/media/pic.eb7017bcda895d9a6481.jpg",
+    "static/media/pic3.png": "/BinbinDev/static/media/pic3.3a5c7e7611ea6b1c0577.png",
+    "static/media/pic1.png": "/BinbinDev/static/media/pic1.7c82a944692c542e7a56.png",
+    "static/media/pic4.jpg": "/BinbinDev/static/media/pic4.7a4324285e9fa8c53401.jpg",
+    "index.html": "/BinbinDev/index.html",
+    "main.72fc69a0.css.map": "/BinbinDev/static/css/main.72fc69a0.css.map",
+    "main.f16a8278.js.map": "/BinbinDev/static/js/main.f16a8278.js.map",
+    "453.4ed56b0f.chunk.js.map": "/BinbinDev/static/js/453.4ed56b0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72fc69a0.css",
+    "static/js/main.f16a8278.js"
+  ]
+}
